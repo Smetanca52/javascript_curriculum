@@ -247,3 +247,5 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Vyhn's Solution](https://github.com/Vyhnn/Rock-Paper-Scissors) - [View in Browser](https://vyhnn.github.io/Rock-Paper-Scissors/)
 - [MrObele's Solution](https://github.com/MrObele/rock-paper-scissors)
 - [Simon Tharby's UI solution](https://github.com/jinjagit/RockPaperScissors) - [View in Browser](https://jinjagit.github.io/RockPaperScissors/)
+[Ivan Smetanca's Solution](https://github.com/Smetanca52/simple_game) - [View in Browser]
+(https://cdn.rawgit.com/Smetanca52/simple_game/f6a9665b/rock.html)
