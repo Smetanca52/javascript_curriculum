@@ -40,7 +40,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 
 - Add your solution below this line!
 - [NatSydenham's Solution](https://github.com/NatSydenham/calculator) - [View in Browser](https://natsydenham.github.io/calculator/)
-- [Smetanca52's Solution](https://github.com/Smetanca52/simple_calculator) - [View in browser](https://cdn.rawgit.com/Smetanca52/simple_calculator/a3a21f43/index.html)
+- [Smetanca52's Solution](https://github.com/Smetanca52/simple_calculator) - [View in browser](https://smetanca52.github.io/simple_calculator/)
 - [Mohamed Elattar's Solution](https://github.com/mohamed-elattar/calculator) - [View in browser](https://mohamed-elattar.github.io/calculator/)
 - [CraigBlair's Solution](https://github.com/craigandrewblair/odin-javascript-calculator) - [View in browser](https://craigandrewblair.github.io/odin-javascript-calculator)
 - [prw001's Solution](https://github.com/prw001/Simple_calculator)
